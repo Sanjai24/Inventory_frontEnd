@@ -1,0 +1,37 @@
+.header-task-management{
+    font-size: 20px;
+    font-weight: 500;
+    margin: auto;
+  }
+
+  .layout-header{
+    height: 66px;
+    width: 100%;
+    position: fixed;
+    background: red;
+  }
+  .layout-content{
+    margin-top:70px ;
+    margin-left: 250px;
+    position: relative;
+  }
+  .ant-layout-header{
+    background: RGB(195, 68, 122);
+  }
+  .ant-menu-vertical.ant-menu-root{
+    height:93vh;
+  }
+  .anticon{
+    font-size: 25px;
+  }
+  .register-form-input1{
+    width: 250px;
+    margin-left: 20px;
+  }
+  .register-form-input2{
+    width: 250px;
+    margin-left: 65px;
+  }
+  .ant-form-item .ant-form-item-explain-error{
+    margin-left: 30px;
+  }
